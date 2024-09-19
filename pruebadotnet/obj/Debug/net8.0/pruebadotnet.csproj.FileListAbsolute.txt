@@ -1,0 +1,14 @@
+/home/alexis/Escritorio/dotnet/pruebadotnet/bin/Debug/net8.0/pruebadotnet
+/home/alexis/Escritorio/dotnet/pruebadotnet/bin/Debug/net8.0/pruebadotnet.deps.json
+/home/alexis/Escritorio/dotnet/pruebadotnet/bin/Debug/net8.0/pruebadotnet.runtimeconfig.json
+/home/alexis/Escritorio/dotnet/pruebadotnet/bin/Debug/net8.0/pruebadotnet.dll
+/home/alexis/Escritorio/dotnet/pruebadotnet/bin/Debug/net8.0/pruebadotnet.pdb
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.AssemblyInfoInputs.cache
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.AssemblyInfo.cs
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.csproj.CoreCompileInputs.cache
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.dll
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/refint/pruebadotnet.dll
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.pdb
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/pruebadotnet.genruntimeconfig.cache
+/home/alexis/Escritorio/dotnet/pruebadotnet/obj/Debug/net8.0/ref/pruebadotnet.dll

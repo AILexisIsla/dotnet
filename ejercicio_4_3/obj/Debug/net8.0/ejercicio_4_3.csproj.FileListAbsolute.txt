@@ -1,0 +1,14 @@
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/bin/Debug/net8.0/ejercicio_4_3
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/bin/Debug/net8.0/ejercicio_4_3.deps.json
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/bin/Debug/net8.0/ejercicio_4_3.runtimeconfig.json
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/bin/Debug/net8.0/ejercicio_4_3.dll
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/bin/Debug/net8.0/ejercicio_4_3.pdb
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.AssemblyInfoInputs.cache
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.AssemblyInfo.cs
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.csproj.CoreCompileInputs.cache
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.dll
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/refint/ejercicio_4_3.dll
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.pdb
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ejercicio_4_3.genruntimeconfig.cache
+/home/alexis/Escritorio/dotnet/ejercicio_4_3/obj/Debug/net8.0/ref/ejercicio_4_3.dll
